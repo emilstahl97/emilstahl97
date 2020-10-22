@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
-
+![](emilstahl.gif)
 
 <!--
 **emilstahl97/emilstahl97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
