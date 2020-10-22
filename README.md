@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="emilstahl.gif" width="1000" height="500"/>
+<img src="banner.png" width="1000" height="500"/>
 
 <!--
 **emilstahl97/emilstahl97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
