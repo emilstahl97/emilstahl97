@@ -43,8 +43,6 @@ M.Sc.Eng. Student in Software Engineering of Distributed Systems at KTH Royal In
   </a>
 </p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/emilstahl97">
