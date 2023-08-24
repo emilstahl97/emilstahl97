@@ -15,7 +15,7 @@ As an M.Sc.Eng. student in Software Engineering of Distributed Systems at KTH Ro
 
 ## Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,css,docker,elixir,express,fastapi,figma,flask,git,html,java,javascript,kafka,linux,materialui,mongodb,mysql,nodejs,py,react,redis,scala,swift,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,css,docker,elixir,express,fastapi,figma,firebase,flask,git,html,java,javascript,kafka,linux,materialui,mongodb,mysql,nodejs,py,react,redis,scala,swift,vim,vscode)](https://skillicons.dev)
 
 
 ### Socials
