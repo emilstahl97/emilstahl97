@@ -1,3 +1,4 @@
+Bachelor's programme:
 
 Algebra and Geometry - SF1624
 Algorithms and Data Structures - ID1020
@@ -10,7 +11,7 @@ Degree Project in Information and Communication Technology, First Cycle - IA150X
 Discrete Mathematics - SF1610
 Embedded Electronics - IE1206
 Engineering Skills for ICT - II1304
-Industrial Management, Basic Course - ME1003
+Industrial Management - ME1003
 Intercultural Competence - LS1600
 Internetworking - IK1552
 Introduction to Computer Security - IV1013
