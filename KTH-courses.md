@@ -22,7 +22,6 @@
 - Operating Systems - ID1206
 - Probability Theory and Statistics - SF1912
 - Programming I - ID1018
-- Programming II - ID1019
 - Project in Information and Communication Technology - II1305
 - Sustainable Development, ICT and Innovation - AG1815
 
