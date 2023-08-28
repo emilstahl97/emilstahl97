@@ -11,7 +11,7 @@ For a comprehensive overview of the courses I have completed at KTH, please refe
 - 🌍  I'm based in Stockholm 
 - ✉️  You can contact me at [emilstah@kth.se](mailto:emilstah@kth.se) 
 - 🚀  I'm currently working on [Verbalizer](http://theverbalizer.com) 
-- 🧠  I'm learning Swift and iOS Development
+- 🧠  I'm currently learning Swift and iOS Development
 
 <a href="https://www.github.com/emilstahl97" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/emilstahl97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
