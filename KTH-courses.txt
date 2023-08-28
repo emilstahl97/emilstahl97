@@ -1,4 +1,4 @@
-Bachelor's programme:
+**Bachelor's programme:**
 
 - Algebra and Geometry - SF1624
 - Algorithms and Data Structures - ID1020
@@ -26,7 +26,7 @@ Bachelor's programme:
 - Project in Information and Communication Technology - II1305
 - Sustainable Development, ICT and Innovation - AG1815
 
-Master's programme:
+**Master's programme:**
 
 - Building Networked Systems Security - EP2520
 - Data Mining - ID2222
