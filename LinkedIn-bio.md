@@ -10,7 +10,7 @@ Areas of Expertise:
 
 - Web Development: Skilled in front-end development using HTML5, CSS3, and JavaScript frameworks such as React.js. Familiar with back-end technologies like Node.js and Django.
 
-- Databases: Experienced in designing and managing non-relational databases including MongoDB, Cassandra, and Redis. Knowledgeable about SQL databases like MySQL and Postgres.
+- Databases: Experienced in designing and managing NoSSQL databases including MongoDB, Cassandra, and Redis. Knowledgeable about SQL databases like MySQL and Postgres.
 
 - Networking: Deep understanding and experience of networking principles, protocols, and technologies such as TCP/IP, UDP, DNS, HTTPS, DHCP, BGP, FRRouting, Wireshark, XDP (eXpress Data Path), and Scapy. Hands-on experience with network configuration, troubleshooting, and security. Familiar with Software-Defined Networking concepts and technologies such as Open vSwitch, Open Virtual Network, and OpenFlow.
 
