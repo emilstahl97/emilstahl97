@@ -11,7 +11,7 @@ For a comprehensive overview of the courses I have completed at KTH, please refe
 - 🌍  I'm based in Stockholm 
 - ✉️  You can contact me at [emilstah@kth.se](mailto:emilstah@kth.se) 
 - 🌐  Check out my portfolio at [https://emilstahl97.github.io](https://emilstahl97.github.io)
-- 📄  Check out our ACM/IRTF Applied Networking Research Workshop (ANRW) 2025 paper on optimizing Open vSwitch
+- 📄  Check out our [ACM/IRTF Applied Networking Research Workshop (ANRW) 2025 paper](https://dl.acm.org/doi/10.1145/3744200.3744762) on optimizing Open vSwitch
 
 <!-- - 🚀  I'm currently working on [Verbalizer](http://theverbalizer.com)--> 
 <!-- - 🧠  I'm currently learning Swift and iOS Development -->
