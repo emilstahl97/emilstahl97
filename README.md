@@ -9,8 +9,9 @@ As an M.Sc.Eng. student in Software Engineering of Distributed Systems at KTH Ro
 For a comprehensive overview of the courses I have completed at KTH, please refer to my complete course list available [here](KTH-courses.md).
 
 - 🌍  I'm based in Stockholm 
-- ✉️   You can contact me at [emilstah@kth.se](mailto:emilstah@kth.se) 
+- ✉️  You can contact me at [emilstah@kth.se](mailto:emilstah@kth.se) 
 - 🌐  Check out my portfolio at [https://emilstahl97.github.io](https://emilstahl97.github.io)
+- 📄  Check out our ACM/IRTF Applied Networking Research Workshop (ANRW) 2025 paper on optimizing Open vSwitch
 
 <!-- - 🚀  I'm currently working on [Verbalizer](http://theverbalizer.com)--> 
 <!-- - 🧠  I'm currently learning Swift and iOS Development -->
