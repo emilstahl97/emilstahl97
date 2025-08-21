@@ -2,7 +2,9 @@
 
 ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Full-Stack Engineer 
+## Full-Stack Engineer
+
+As an M.Sc.Eng. student in Software Engineering of Distributed Systems at KTH Royal Institute of Technology, I have specialized in the areas of networking and automation. I am dedicated to leveraging technology as a deflationary tool, empowering people and organizations to drive innovation and progress. My passion lies in developing cutting-edge technology that propels humanity towards a brighter future and promotes global economic growth for the benefit of all. With a firm belief in the power of technology to transform the world, I am committed to creating solutions that make a positive impact on society. 
 
 For a comprehensive overview of the courses I have completed at KTH, please refer to my complete course list available [here](KTH-courses.md).
 
